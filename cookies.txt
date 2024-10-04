@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-donweb.com	TRUE	/	FALSE	1999999999	mac_id	67002a82efd49
-donweb.com	TRUE	/	FALSE	1999999999	sitio	3r1lrkkj6c57k8ft2jtptn72ij
-
